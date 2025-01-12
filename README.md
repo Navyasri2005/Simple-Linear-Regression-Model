@@ -6,16 +6,27 @@ This project demonstrates a simple implementation of linear regression to predic
 
 # Dataset
 The dataset used in this project contains real estate data with the following columns:
+
 price: The price of the property (target variable).
+
 bedrooms: Number of bedrooms.
+
 bathrooms: Number of bathrooms.
+
 sqft_living: Square footage of living space.
+
 sqft_lot: Square footage of the lot.
+
 floors: Number of floors.
+
 waterfront: Whether the property has a waterfront view.
+
 view: Rating of the property’s view.
+
 condition: Condition of the property.
+
 sqft_above: Square footage above ground level.
+
 sqft_basement: Square footage of the basement.
 
 # Features
