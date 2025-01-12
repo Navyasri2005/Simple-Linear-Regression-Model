@@ -31,9 +31,11 @@ Mean Squared Error (MSE).
 R-squared (R²) score.
 
 # Usage
-Load your dataset in CSV format.
-Run the Python script to train the model and visualize the results.
-View the output metrics and plots.
+1.Load your dataset in CSV format.
+
+2.Run the Python script to train the model and visualize the results.
+
+3.View the output metrics and plots.
 
 # Code Explanation
 1.Linear Regression
@@ -49,7 +51,9 @@ R² Score: Indicates the proportion of variance explained by the model.
 
 # Example Output
 Evaluation Metrics:
+
 Mean Squared Error (MSE): 990204087727.1417
+
 R² Score: 0.029065410341410414
 
 Visualization:
